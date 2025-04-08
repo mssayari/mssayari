@@ -19,7 +19,7 @@ I'm a **Full Stack Web Developer** who loves turning ideas into working software
 ### 📫 Get in touch
 
 - GitHub: [github.com/your-username](https://github.com/mssayari)
-- LinkedIn: [linkedin.com/in/mojtaba-sayari](https://www.linkedin.com/in/mojtaba-sayari) (optional)
+- LinkedIn: [linkedin.com/in/mojtaba-sayari](https://www.linkedin.com/in/mojtaba-sayari)
 
 ---
 
